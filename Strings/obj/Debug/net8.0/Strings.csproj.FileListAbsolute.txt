@@ -1,0 +1,11 @@
+/home/first/RiderProjects/TestApp/Strings/bin/Debug/net8.0/Strings.deps.json
+/home/first/RiderProjects/TestApp/Strings/bin/Debug/net8.0/Strings.dll
+/home/first/RiderProjects/TestApp/Strings/bin/Debug/net8.0/Strings.pdb
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/Strings.dll
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/refint/Strings.dll
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/Strings.pdb
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/ref/Strings.dll

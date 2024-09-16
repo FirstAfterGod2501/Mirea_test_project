@@ -1,0 +1,11 @@
+/home/first/RiderProjects/TestApp/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/first/RiderProjects/TestApp/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/first/RiderProjects/TestApp/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/ref/Arrays.dll

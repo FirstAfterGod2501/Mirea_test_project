@@ -1,0 +1,11 @@
+/home/first/RiderProjects/TestApp/Calendar/bin/Debug/net8.0/Calendar.deps.json
+/home/first/RiderProjects/TestApp/Calendar/bin/Debug/net8.0/Calendar.dll
+/home/first/RiderProjects/TestApp/Calendar/bin/Debug/net8.0/Calendar.pdb
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/Calendar.GeneratedMSBuildEditorConfig.editorconfig
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/Calendar.AssemblyInfoInputs.cache
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/Calendar.AssemblyInfo.cs
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/Calendar.csproj.CoreCompileInputs.cache
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/Calendar.dll
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/refint/Calendar.dll
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/Calendar.pdb
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/ref/Calendar.dll

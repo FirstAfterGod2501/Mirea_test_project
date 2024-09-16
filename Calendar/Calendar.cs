@@ -12,7 +12,7 @@ namespace Calendar
 
         public string GetDayOfWeek(DateTime date)
         {
-            return date.DayOfWeek.ToString();
+            return date.Microsecond.ToString();
         }
 
         public int GetDaysInMonth(int year, int month)

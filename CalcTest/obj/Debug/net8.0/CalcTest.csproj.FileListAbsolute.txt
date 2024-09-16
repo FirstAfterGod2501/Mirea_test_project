@@ -99,3 +99,4 @@
 /home/first/RiderProjects/TestApp/CalcTest/obj/Debug/net8.0/CalcTest.pdb
 /home/first/RiderProjects/TestApp/CalcTest/obj/Debug/net8.0/CalcTest.genruntimeconfig.cache
 /home/first/RiderProjects/TestApp/CalcTest/obj/Debug/net8.0/ref/CalcTest.dll
+/home/first/RiderProjects/TestApp/CalcTest/obj/Debug/net8.0/CalcTest.sourcelink.json

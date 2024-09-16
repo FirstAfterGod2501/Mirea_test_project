@@ -13,12 +13,12 @@ namespace Arrays
 
         public int FindMax(int[] array)
         {
-            return array.Max();
+            return array.Min();
         }
 
         public int FindMin(int[] array)
         {
-            return array.Min();
+            return array.Max();
         }
 
         public double CalculateAverage(int[] array)

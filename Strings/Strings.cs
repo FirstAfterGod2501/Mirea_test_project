@@ -12,7 +12,7 @@ namespace Strings
 
         public int CountWords(string input)
         {
-            return input.Split(new[] { ' ', '\t', '\n' }, StringSplitOptions.RemoveEmptyEntries).Length;
+            return input.Split(new[] { ' ', '\t', '\n' }, StringSplitOptions.RemoveEmptyEntries).Length+1;
         }
 
         public string ToUpperCase(string input)

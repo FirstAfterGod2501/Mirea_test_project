@@ -9,3 +9,4 @@
 /home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/refint/Arrays.dll
 /home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/Arrays.pdb
 /home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/ref/Arrays.dll
+/home/first/RiderProjects/TestApp/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json

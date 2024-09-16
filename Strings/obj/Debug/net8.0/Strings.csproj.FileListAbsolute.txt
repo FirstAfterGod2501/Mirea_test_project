@@ -9,3 +9,4 @@
 /home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/refint/Strings.dll
 /home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/Strings.pdb
 /home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/ref/Strings.dll
+/home/first/RiderProjects/TestApp/Strings/obj/Debug/net8.0/Strings.sourcelink.json

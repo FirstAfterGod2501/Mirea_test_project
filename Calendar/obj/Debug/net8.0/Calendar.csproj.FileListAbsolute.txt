@@ -9,3 +9,4 @@
 /home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/refint/Calendar.dll
 /home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/Calendar.pdb
 /home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/ref/Calendar.dll
+/home/first/RiderProjects/TestApp/Calendar/obj/Debug/net8.0/Calendar.sourcelink.json

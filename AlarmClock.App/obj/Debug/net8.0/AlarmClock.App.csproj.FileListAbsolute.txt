@@ -1,0 +1,11 @@
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/obj/Debug/net8.0/AlarmClock.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/obj/Debug/net8.0/AlarmClock.App.AssemblyInfoInputs.cache
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/obj/Debug/net8.0/AlarmClock.App.AssemblyInfo.cs
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/obj/Debug/net8.0/AlarmClock.App.csproj.CoreCompileInputs.cache
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/bin/Debug/net8.0/AlarmClock.App.deps.json
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/bin/Debug/net8.0/AlarmClock.App.dll
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/bin/Debug/net8.0/AlarmClock.App.pdb
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/obj/Debug/net8.0/AlarmClock.App.dll
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/obj/Debug/net8.0/refint/AlarmClock.App.dll
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/obj/Debug/net8.0/AlarmClock.App.pdb
+/home/first/RiderProjects/ConsoleApp2/AlarmClock.App/obj/Debug/net8.0/ref/AlarmClock.App.dll

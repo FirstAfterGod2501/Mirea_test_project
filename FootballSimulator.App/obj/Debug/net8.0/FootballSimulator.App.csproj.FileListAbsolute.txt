@@ -1,0 +1,11 @@
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/bin/Debug/net8.0/FootballSimulator.App.deps.json
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/bin/Debug/net8.0/FootballSimulator.App.dll
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/bin/Debug/net8.0/FootballSimulator.App.pdb
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/obj/Debug/net8.0/FootballSimulator.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/obj/Debug/net8.0/FootballSimulator.App.AssemblyInfoInputs.cache
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/obj/Debug/net8.0/FootballSimulator.App.AssemblyInfo.cs
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/obj/Debug/net8.0/FootballSimulator.App.csproj.CoreCompileInputs.cache
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/obj/Debug/net8.0/FootballSimulator.App.dll
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/obj/Debug/net8.0/refint/FootballSimulator.App.dll
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/obj/Debug/net8.0/FootballSimulator.App.pdb
+/home/first/RiderProjects/ConsoleApp2/FootballSimulator.App/obj/Debug/net8.0/ref/FootballSimulator.App.dll

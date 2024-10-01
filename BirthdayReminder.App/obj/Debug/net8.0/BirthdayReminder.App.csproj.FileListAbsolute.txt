@@ -1,0 +1,11 @@
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/bin/Debug/net8.0/BirthdayReminder.App.deps.json
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/bin/Debug/net8.0/BirthdayReminder.App.dll
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/bin/Debug/net8.0/BirthdayReminder.App.pdb
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/obj/Debug/net8.0/BirthdayReminder.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/obj/Debug/net8.0/BirthdayReminder.App.AssemblyInfoInputs.cache
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/obj/Debug/net8.0/BirthdayReminder.App.AssemblyInfo.cs
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/obj/Debug/net8.0/BirthdayReminder.App.csproj.CoreCompileInputs.cache
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/obj/Debug/net8.0/BirthdayReminder.App.dll
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/obj/Debug/net8.0/refint/BirthdayReminder.App.dll
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/obj/Debug/net8.0/BirthdayReminder.App.pdb
+/home/first/RiderProjects/ConsoleApp2/BirthdayReminder.App/obj/Debug/net8.0/ref/BirthdayReminder.App.dll
